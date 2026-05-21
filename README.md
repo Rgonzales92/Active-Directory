@@ -22,7 +22,7 @@ Server > AD > DC who checks credentials before access to AD
     - Windows Server 2022. You can use an older or newer version (if available) for lab purposes.
     - A Windows 10 or Linux OS to be the client device we will be joining to the domain.
 
-![Most important parts here are ISO Image where you select the one you downloaded, type is Microsoft unless it is something else such as Linux. Select the version you have. Check skip unattended installation for now and finish.](Setup.png)
+(Setup.png)
 
 Most important parts here are ISO Image where you select the one you downloaded, type is Microsoft unless it is something else such as Linux. Select the version you have. Check skip unattended installation for now and finish.
 
