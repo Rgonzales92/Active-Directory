@@ -57,7 +57,7 @@ Ok this step is pretty straight forward as soon as your logged in the server man
 
 ![image alt](https://github.com/Rgonzales92/Active-Directory/blob/f9fcf8edba56341fd6b17fcb1bc649dfad0ad4e1/DomainLogin.png)
 
-Example her where my domain was titles AD.local
+Example here where my domain was titles AD.local
 
  6. Log in and in our start menu in Windows Admin tools open up Active Directory Users and Computers.
 
@@ -77,8 +77,7 @@ It acts as a container or box for organization. Some of the most common are User
 2. Now that users is made lets right click the Users OU >new > User
 3. In this box Fill in the blanks. For logon name I like the format first.lastname
 
-![image.png](attachment:c58af93d-9d8e-450f-9b90-ceaa82c4a94d:image.png)
-
+![image alt](https://github.com/Rgonzales92/Active-Directory/blob/0df7bd7c6e80da661861d4599e077e1a0a09feb1/NameEntry.png)
 1. For lab purposes in the password section just use the same easy lab friendly password and uncheck the change password at logon tab.
 2. Yay! you created a User. If you double click on them we can add an email such as first.last@domain.local or whatever your domain is called. 
 3. Lastly, lets promote this guy to a domain admin. If user account still open and you see member of go to it. If not close out use and right click and select properties. Ok now that we are in member of tab do as such
