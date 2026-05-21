@@ -31,7 +31,7 @@ Most important parts here are ISO Image where you select the one you downloaded,
 - Base memory lets do 4096 or keep the default. Now select processor and you can stick with default but I want the machine to process faster so I moved the bar to 2. Hit ok and lets move on.
 - Things like Network can stay the same for this lab but we will touch on that in other labs.
 
- 4. Now double the machine you made. First Windows screen you see click next, (IMPORTANT!) on this screen select Standard Desktop experience as the other is command line and we don’t want that. Ok, moving on to the agreement and now you will be asked what install you want. We will choose custom.
+ 4. Now double click the machine you made. First Windows screen you see click next, (IMPORTANT!) on this screen select Standard Desktop experience as the other is command line and we don’t want that. Ok, moving on to the agreement and now you will be asked what install you want. We will choose custom.
 
 1. Next make an easy to use password for lab purposes. Something like Password123!
 2. You can hold right ctrl + del to unlock screen
