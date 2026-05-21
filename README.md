@@ -55,7 +55,7 @@ Ok this step is pretty straight forward as soon as your logged in the server man
 
  5. It will sign you out but now we will see the login looks different. It has our domain title now.
 
-![Example her where my domain was titles AD.local](attachment:b320a344-c5d0-444b-99dd-6aeec9eb4256:Screenshot_2026-05-21_154537.png)
+![image alt](https://github.com/Rgonzales92/Active-Directory/blob/f9fcf8edba56341fd6b17fcb1bc649dfad0ad4e1/DomainLogin.png)
 
 Example her where my domain was titles AD.local
 
